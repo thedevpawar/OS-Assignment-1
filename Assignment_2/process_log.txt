@@ -1,0 +1,12 @@
+2025-11-02 20:27:07,803 - MainProcess - Logging system initialized.
+INFO:root:DemoProcess started
+INFO:root:DemoProcess ended
+INFO:root:Process-1 started
+INFO:root:Process-2 started
+INFO:root:Process-1 ended
+INFO:root:Process-2 ended
+2025-11-02 20:28:49,254 - MainProcess - Logging system initialized.
+2025-11-02 20:28:49,258 - Process-1 - Process-1 started
+2025-11-02 20:28:49,259 - Process-2 - Process-2 started
+2025-11-02 20:28:51,259 - Process-1 - Process-1 ended
+2025-11-02 20:28:51,260 - Process-2 - Process-2 ended
